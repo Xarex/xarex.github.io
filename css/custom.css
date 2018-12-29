@@ -67,14 +67,14 @@ h1 a:hover,nav.main ul li a:hover{color:#000}
 #hero ul li:hover .popover{top:-34px;opacity:1}
 .features ul li{width:50%;display:block;padding-bottom:50px}
 .features ul li p{padding:0 55px 0 0}
-.features ul li#callmeprivate a.callmeprivate{background-image:url("img/callmeprivate.png")}
-.features ul li#textprivately a.textprivately{background-image:url("img/textprivately.png")}
-.features ul li#wpbubble a.wpbubble{background-image:url("img/wpbubble.png")}
-.features ul li#mypost a.mypost{background-image:url("img/mypost.png")}
-.features ul li#bincdn a.bincdn{background-image:url("img/bincdn.png")}
-.features ul li#scamshare a.scamshare{background-image:url("img/scamshare.png")}
-.features ul li#htmlposts a.htmlposts{background-image:url("img/html5.png")}
-.features ul li#ghbubble a.ghbubble {background-image: url("img/coming-soon.jpg");}
+.features ul li#callmeprivate a.callmeprivate{background-image:url("../img/callmeprivate.png")}
+.features ul li#textprivately a.textprivately{background-image:url("../img/textprivately.png")}
+.features ul li#wpbubble a.wpbubble{background-image:url("../img/wpbubble.png")}
+.features ul li#mypost a.mypost{background-image:url("../img/mypost.png")}
+.features ul li#bincdn a.bincdn{background-image:url("../img/bincdn.png")}
+.features ul li#scamshare a.scamshare{background-image:url("../img/scamshare.png")}
+.features ul li#htmlposts a.htmlposts{background-image:url("../img/html5.png")}
+.features ul li#ghbubble a.ghbubble {background-image: url("../img/coming-soon.jpg");}
 .features ul li a.callmeprivate{display:block;width:120px;height:120px;margin:0 30px 30px 0;float:left;background-repeat:no-repeat;background-size:cover}
 .features ul li a.callmeprivate,#default-theme{background-color:#f9f9f9;outline:solid 1px #eee}
 .features ul li a.textprivately{display:block;width:120px;height:120px;margin:0 30px 30px 0;float:left;background-repeat:no-repeat;background-size:cover}
