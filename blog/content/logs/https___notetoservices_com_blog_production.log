@@ -41,3 +41,10 @@
 {"name":"Log","hostname":"wpbubble","pid":11103,"level":30,"msg":"Ctrl+C to shut down ","time":"2018-12-29T21:19:48.135Z","v":0}
 {"name":"Log","hostname":"wpbubble","pid":11103,"level":30,"msg":"Ghost boot 4.652s ","time":"2018-12-29T21:19:48.144Z","v":0}
 {"name":"Log","hostname":"wpbubble","pid":11103,"level":30,"msg":"Bootstrap client was closed. ","time":"2018-12-29T21:19:48.144Z","v":0}
+{"name":"Log","hostname":"wpbubble","pid":11103,"level":40,"msg":"Ghost has shut down ","time":"2018-12-29T21:46:06.480Z","v":0}
+{"name":"Log","hostname":"wpbubble","pid":12704,"level":40,"msg":"Theme's file locales/en.json not found. ","time":"2018-12-29T21:46:08.048Z","v":0}
+{"name":"Log","hostname":"wpbubble","pid":12704,"level":30,"msg":"Ghost is running in production... ","time":"2018-12-29T21:46:08.307Z","v":0}
+{"name":"Log","hostname":"wpbubble","pid":12704,"level":30,"msg":"Your blog is now available on https://notetoservices.com/blog/ ","time":"2018-12-29T21:46:08.307Z","v":0}
+{"name":"Log","hostname":"wpbubble","pid":12704,"level":30,"msg":"Ctrl+C to shut down ","time":"2018-12-29T21:46:08.308Z","v":0}
+{"name":"Log","hostname":"wpbubble","pid":12704,"level":30,"msg":"Ghost boot 1.38s ","time":"2018-12-29T21:46:08.315Z","v":0}
+{"name":"Log","hostname":"wpbubble","pid":12704,"level":30,"msg":"Bootstrap client was closed. ","time":"2018-12-29T21:46:08.316Z","v":0}
