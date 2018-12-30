@@ -4,11 +4,11 @@
 <link rel="stylesheet" href="css/custom.css">
 <script type="text/javascript">window.onload=function(){var a=document.getElementById("slide-menu-button");a.onclick=function(d){var c=document.getElementById("site");var b=c.classList;if(b.contains("open")){b.remove("open")}else{b.add("open")}}};</script></head>
 
-<body><div id="wrapper"><div id="side-nav"><nav class="site"><ul><li class="selected"><a href="https://notetoservices.com">Home</a></li>
+<body><div id="wrapper"><div id="side-nav"><nav class="site"><ul>
 <li><a href="about.html">About</a></li>
 <li><a href="blog.html">Blog</a></li><li><a href="https://notetoservices.com/contact.html">Contact</a></li></ul></nav></div>
 <div id="site"><header class="main"><h1><a href="/">NoteToServices</a></h1><p>Useful SaaS Apps For Individuals and Businesses</p><nav class="main">
-<ul><li><a href="https://notetoservices.com">Home</a></li>
+<ul>
 <li><a href="about.html">About</a></li>
 <li><a href="blog.html">Blog</a></li><li><a href="https://notetoservices.com/contact.html">Contact</a></li><li>
 <li class="download"></li></ul></nav><button id="slide-menu-button" href="#" class="topcoat-icon-button--large--quiet">

@@ -1,6 +1,6 @@
 <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><meta name="generator" content="DocPad v6.63.3" /><title>Blog | NoteToServices</title>
 <link rel="stylesheet" href="css/custom.css"><script type="text/javascript">window.onload=function(){var a=document.getElementById("slide-menu-button");a.onclick=function(d){var c=document.getElementById("site");var b=c.classList;if(b.contains("open")){b.remove("open")}else{b.add("open")}}};</script></head>
-<body><div id="wrapper"><div id="side-nav"><nav class="site"><ul>
+<body><div id="wrapper"><div id="side-nav"><nav class="site"><ul><li class="selected"><a href="https://notetoservices.com">Home</a></li>
 <li><a href="about.html">About</a></li>
 <li><a href="blog.html">Blog</a></li><li><a href="contact.html">Contact</a></li></ul></nav></div>
 <div id="site"><header class="main"><h1><a href="/">NoteToServices</a></h1><p>Useful SaaS Apps For Individuals and Businesses</p><nav class="main">
