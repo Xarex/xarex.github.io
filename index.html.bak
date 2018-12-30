@@ -6,7 +6,7 @@ a.onclick=function(d){var c=document.getElementById("site");var b=c.classList;if
 <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5c2809f4c276020011d385b0&product=social-ab' async='async'>
 </script>
 </head>
-<body><div id="wrapper"><div id="side-nav"><nav class="site"><ul>
+<body><div id="wrapper"><div id="side-nav"><nav class="site"><ul><li class="selected"><a href="https://notetoservices.com">Home</a></li>
 <li><a href="about.html">About</a></li>
 <li><a href="blog.html">Blog</a></li><li><a href="contact.html">Contact</a></li></ul></nav></div><div id="site"><header class="main">
 <h1 class="logo"><a href="/">NoteToServices</a></h1><p>Useful SaaS Apps For Individuals and Businesses</p><nav class="main">
