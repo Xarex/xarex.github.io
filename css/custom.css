@@ -643,6 +643,7 @@ nav.main ul li a:hover {
 
 .features ul li#edithours a.edithours {
     background-image: url(../img/edithours.png);
+}
     #default-theme {
         clear: left;
         width: 100%;
