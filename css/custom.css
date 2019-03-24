@@ -511,7 +511,8 @@ nav.main ul li a:hover {
 .features ul li a.notetovoice,
 .features ul li a.baremetalhost,
 .features ul li a.edithours, 
-.features ul li a.writetufte
+.features ul li a.writetufte,
+.features ul li a.ectochat
 {
     background-color: #f9f9f9;
     outline: #eee solid 1px
@@ -575,7 +576,8 @@ nav.main ul li a:hover {
 .features ul li a.notetovoice,
 .features ul li a.baremetalhost,
 .features ul li a.edithours, 
-.features ul li a.writetufte {
+.features ul li a.writetufte,
+.features ul li a.ectochat {
     width: 120px;
     height: 120px;
     margin: 0 30px 30px 0;
@@ -615,6 +617,10 @@ nav.main ul li a:hover {
 
 .features ul li#htmlposts a.htmlposts {
     background-image: url(../img/html5.png)
+}
+
+.features ul li#ectochat a.ectochat {
+    background-image: url(../img/ectosym.png)
 }
 
 .features ul li#ghbubble a.ghbubble {
