@@ -655,7 +655,7 @@ nav.main ul li a:hover {
     background-image: url(../img/tufte.png)
 }
 
-.features ul li#writetufte a.notetocall {
+.features ul li#notetocall a.notetocall {
     background-image: url(../img/notetocall.png)
 }
 
