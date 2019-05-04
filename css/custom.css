@@ -514,6 +514,7 @@ nav.main ul li a:hover {
 .features ul li a.writetufte,
 .features ul li a.ectochat,
 .features ul li a.notetocall
+.features ul li a.youtrippy,
 {
     background-color: #f9f9f9;
     outline: #eee solid 1px
@@ -657,6 +658,10 @@ nav.main ul li a:hover {
 
 .features ul li#notetocall a.notetocall {
     background-image: url(../img/notetocall.png)
+}
+
+.features ul li#youtrippy a.youtrippy {
+    background-image: url(../img/prism.png)
 }
 
 
