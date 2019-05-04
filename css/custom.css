@@ -513,8 +513,8 @@ nav.main ul li a:hover {
 .features ul li a.edithours, 
 .features ul li a.writetufte,
 .features ul li a.ectochat,
-.features ul li a.notetocall
-.features ul li a.youtrippy,
+.features ul li a.notetocall,
+.features ul li a.youtrippy
 {
     background-color: #f9f9f9;
     outline: #eee solid 1px
