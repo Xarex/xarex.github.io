@@ -1,5 +1,44 @@
 [
     {
+        "city": "Alberta",
+        "state": "Canada"
+    },     {
+        "city": "British Columbia",
+        "state": "Canada"
+    },     {
+        "city": "Manitoba",
+        "state": "Canada"
+    },     {
+        "city": "New Brunswick",
+        "state": "Canada"
+    },     {
+        "city": "Nova Scotia",
+        "state": "Canada"
+    },     {
+        "city": "Northwest Territories",
+        "state": "Canada"
+    },     {
+        "city": "Nanavut",
+        "state": "Canada"
+    },     
+    {
+        "city": "Ontario",
+        "state": "Canada"
+    }, 
+    {
+        "city": "Prince Edward Island",
+        "state": "Canada"
+    },     {
+        "city": "Qubec",
+        "state": "Canada"
+    }, {
+        "city": "Saskatchewan",
+        "state": "Canada"
+    },  {
+        "city": "Yukon",
+        "state": "Canada"
+    }, 
+    {
         "city": "New York", 
         "growth_from_2000_to_2013": "4.8%", 
         "latitude": 40.7127837, 
