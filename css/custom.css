@@ -516,7 +516,8 @@ nav.main ul li a:hover {
 .features ul li a.notetocall,
 .features ul li a.youtrippy,
 .features ul li a.retiretheory,
-.features ul li a.justcounts
+.features ul li a.justcounts,
+.features ul li a.invodue
 {
     background-color: #f9f9f9;
     outline: #eee solid 1px
@@ -585,7 +586,8 @@ nav.main ul li a:hover {
 .features ul li a.notetocall,
 .features ul li a.youtrippy,
 .features ul li a.retiretheory,
-.features ul li a.justcounts {
+.features ul li a.justcounts,
+.features ul li a.invodue {
     width: 120px;
     height: 120px;
     margin: 0 30px 30px 0;
@@ -676,6 +678,12 @@ nav.main ul li a:hover {
 .features ul li#retiretheory a.retiretheory {
     background-image: url(../img/retiretheory.png)
 }
+
+.features ul li#invodue a.invodue {
+    background-image: url(../img/invodue.png)
+}
+
+
     #default-theme {
         clear: left;
         width: 100%;
