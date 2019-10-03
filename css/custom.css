@@ -518,7 +518,8 @@ nav.main ul li a:hover {
 .features ul li a.retiretheory,
 .features ul li a.justcounts,
 .features ul li a.invodue,
-.features ul li a.bunnyapi
+.features ul li a.bunnyapi,
+.features ul li a.pixel
 {
     background-color: #f9f9f9;
     outline: #eee solid 1px
@@ -589,7 +590,8 @@ nav.main ul li a:hover {
 .features ul li a.retiretheory,
 .features ul li a.justcounts,
 .features ul li a.invodue,
-.features ul li a.bunnyapi 
+.features ul li a.bunnyapi,
+.features ul li a.pixel 
 {
     width: 120px;
     height: 120px;
@@ -670,6 +672,11 @@ nav.main ul li a:hover {
 .features ul li#edithours a.edithours {
     background-image: url(../img/edithours.png);
 }
+
+.features ul li#pixel a.pixel {
+    background-image: url(../img/pixel.png);
+}
+
 
 .features ul li#writetufte a.writetufte {
     background-image: url(../img/tufte.png)
