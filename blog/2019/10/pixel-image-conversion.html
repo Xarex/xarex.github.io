@@ -31,11 +31,25 @@ keyframes and blocks of pixels to predict the values in the block, only encoding
 the Internet fast for everyone, it was images that still remained somewhat larger in size than they had to be. With this new compression 
 system, that noticeable difference is usually around 26% to 35%.</p>
 <p>With <a href="https://pixle.cc" target="_blank">Pixle.cc</a>, we converted a JPG image into all other formats. Here were the results:</p>
-<p><img src="https://notetoservices.com/img/pixel-conversion.jpg"></p>
+<p><img src="https://notetoservices.com/img/pixle-comparison.jpg"></p>
 <p>The original JPG format was around 65 KB. When converted to PNG, the image became much larger, which can be common for PNG files, at 
 515 KB (-515.17%). When converted to GIF, the image became 176 KB (-92.12%). And finally, with Google's WebP image, the difference was 
-vastly smaller, coming in around 43 KB (a 22 KB or 40.74% difference).</p>
-<p><a href="https://pixle.cc" target="_blank">Pixle.cc</a> currently remains free and images can only be converted via URL, but there 
+    vastly smaller, coming in around 43 KB for a 22 KB difference (40.74%).</p>
+    
+    <p>It seems WebP and JPG have a great relationship with each other, while WebP to PNG did not show any impressive results at all. It 
+    could be due to the fact that WebP must fill in the transparency that comes with PNG images. However, there was a really amazing 
+    different when we converted a GIF to WebP. The original GIF file was 914 KB and converting it to WebP dropped its size down to 717 KB 
+    (24.15%). GIFs sizes are normally large because of the animations, or the amount of frames within the image itself, so unless you use 
+        a website like <a href="https://ezgif.com" target="_blank">Ezgif.com</a> and take a loss of  quality, you're not going to get the GIF 
+    you actualy want. However, with the conversion to WebP, there was no noticeable difference at all. Take a look:</p>
+    
+    <p><table border="1"><tr><td><strong>GIF</strong><td>Size</td></tr>
+    <tr><td><a href="https://notetoservices.com/img/animated-lion-king-image.gif"></td><td>914 KB</td></tr>
+    <tr><td><a href="https://notetoservices.com/img/animated-lion-king-image.webp"></td><td>717 KB</td></tr>
+    </p>
+    <p>Notice the difference? I cannot really see much of a difference between the two except for actually looking at the file size.</p>
+<p><a href="https://pixle.cc" target="_blank">Pixle.cc</a> can also convert PNG to JPG, JPG to PNG, JPG to GIF, PNG to GIF, 
+    GIF to JPG, GIF to PNG, and currently remains free and images can only be converted via URL, but there 
 are plans to implement a file uploading service, including multiple upload functionality for conversions, and we would like to eventually extend its full capabilities 
 to API developers.</p>
 <p>With the WebP format, you can reduce your website by gigabytes of data, as thousands of images will continue to add up to that 
