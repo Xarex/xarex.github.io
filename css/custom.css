@@ -519,7 +519,7 @@ nav.main ul li a:hover {
 .features ul li a.justcounts,
 .features ul li a.invodue,
 .features ul li a.bunnyapi,
-.features ul li a.pixel
+.features ul li a.pixle
 {
     background-color: #f9f9f9;
     outline: #eee solid 1px
@@ -591,7 +591,7 @@ nav.main ul li a:hover {
 .features ul li a.justcounts,
 .features ul li a.invodue,
 .features ul li a.bunnyapi,
-.features ul li a.pixel 
+.features ul li a.pixle 
 {
     width: 120px;
     height: 120px;
@@ -673,8 +673,8 @@ nav.main ul li a:hover {
     background-image: url(../img/edithours.png);
 }
 
-.features ul li#pixel a.pixel {
-    background-image: url(../img/pixel.png);
+.features ul li#pixel a.pixle {
+    background-image: url(../img/pixle.png);
 }
 
 
