@@ -19,7 +19,7 @@
 <section class="features">
 <h2>Upload Media By URL WordPress Plugin</h2>
 <p align="center"><img src="https://notetoservices.com/img/upload-media-by-url-play.gif" align="center" alt="Upload Media By URL"></p>
-<p><strong><em>February 25, 2020</em></strong> &mdash; In our great strive to learn about developing WordPress plugins, 
+<p><strong><em>February 27, 2020</em></strong> &mdash; In our great strive to learn about developing WordPress plugins, 
 I realized I needed something and built it into a plugin I was working on for a client. However, this feature serves as a 
 personal tool for those clients to upload their media to a CDN. In the process, I realized that an important feature from 
 WordPress is missing. In fact, it's never actually been implemented, yet you would think otherwise. We built a WordPress plugin 
@@ -40,11 +40,48 @@ either download that URL and re-upload it through your WordPress Media library. 
 revealed that no one has built this plugin. It does not exist. There is no plugin out there in which you can enter in the URL 
 and it will automatically download to your website and be inserted into the media library. Thus, we are happy to have practiced 
 with WordPress plugin development and are happy to offer this for free.</p>
-
-<p>Download it from the  
+    
+<p>The first submission was easy and involved going to the website and uploading my plugin. Luckily, there were only 2 other pending 
+    plugins before I uploaded mine, so I submitted the plugin on Friday and received word on Monday. Our first submission was rejected, 
+    as we were learning about proper coding and guidelines for building a WordPress plugin. Fortunately,
+     our biggest issue which was really a nonissue was ensuring that all data, especially by user input, is sanitized and escaped properly. 
+    After I made changes to the plugin, it was accepted.</p>
+    
+  <p>I had already built another plugin for another company, but decided to submit this one first so I could 
+    understand the guidelines of proper coding for plugins, and since this plugin literally contains less than 100 lines of code.
+  It was the easiest for the plugin reviewers to check it and approve it, providing an understanding of how I can submit future plugins, 
+      as there are plenty of plugins out there that take time to go through and approve. The main emphasis on what was wrong was 
+      <strong>Validating</strong>, <strong>Sanitizing</strong> and <strong>Escaping User Data</strong> meaning that strings and other 
+    user input could contain scripts that could easily hijack a WordPress plugin, thus using these functions are very useful in ensuring 
+    a WordPress plugin receives proper coding. The functions that help keep WordPress safe are: <ul><li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_email" title="Function Reference/sanitize email">sanitize_email()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_file_name" title="Function Reference/sanitize file name">sanitize_file_name()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_html_class" title="Function Reference/sanitize html class">sanitize_html_class()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_key" title="Function Reference/sanitize key">sanitize_key()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_meta" title="Function Reference/sanitize meta">sanitize_meta()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_mime_type" title="Function Reference/sanitize mime type">sanitize_mime_type()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_option" title="Function Reference/sanitize option">sanitize_option()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_sql_orderby" title="Function Reference/sanitize sql orderby">sanitize_sql_orderby()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_text_field" title="Function Reference/sanitize text field">sanitize_text_field()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_textarea_field" title="Function Reference/sanitize textarea field">sanitize_textarea_field()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_title" title="Function Reference/sanitize title">sanitize_title()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_title_for_query" title="Function Reference/sanitize title for query">sanitize_title_for_query()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_title_with_dashes" title="Function Reference/sanitize title with dashes">sanitize_title_with_dashes()</a></li>
+<li> <a href="https://codex.wordpress.org/Function_Reference/sanitize_user" title="Function Reference/sanitize user">sanitize_user()</a></li></ul>
+    
+<p>WordPress is a powerful tool that powers nearly 35% of all websites on the Internet, so to ensure that code is not broken and is 
+    authentic to its users, they do a great job in ensuring that most plugins work and do not contain malware or anything else that 
+    could break websites. With hundreds of thousands of plugin developers and no less than at least 10 plugin submissions per week, 
+    it can be a lot of work. Especially considering the fact that each time your plugin is returned for you to make changes, and the 
+    resubmission process, every submission is checked as if it were submitted for the first time.</p>
+    
+ <p>So I am not deterred or upset by my first plugin rejection. It was absolutely expected, as I have never submitted a WordPress plugin 
+     in my life, and while I do take measures to secure my code, there are specific standards and procedures that must be followed when 
+     developing an actual WordPress plugin to work with the core code. Kudos to WordPress for making everything a smooth process and I hope 
+     you guys enjoy the plugins built by NoteToServices, as we are now entering a whole new vast land of possibilites.</p>
+    
+    <p>Download the <strong>Upload Media By URL</strong> from the  
 <a href="https://wordpress.org/plugins/upload-media-by-url/" target="_blank">
 https://wordpress.org/plugins/upload-media-by-url/</a> or directly from <a href="https://bincdn.com/?dn5nbpgpfth">NoteToServices</a>.</p>
-
 <div style="clear:both;"></div></section><footer class="site">
 <ul>
 <li id="twitter"><a href="http://twitter.com/OneTruConscious"></a></li>
