@@ -1,0 +1,49 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Pi Data | Blog | NoteToServices</title><link rel="stylesheet" href="../../../css/custom.css"><script type="text/javascript">window.onload=function(){var a=document.getElementById("slide-menu-button");a.onclick=function(d){var c=document.getElementById("site");var b=c.classList;if(b.contains("open")){b.remove("open")}else{b.add("open")}}};</script>
+<script type="text/javascript">
+    window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+      heap.load("2685425461");
+</script>
+</head>
+<body><div id="wrapper"><div id="side-nav"><nav class="site"><ul>
+<li><a href="../../../about.html">About</a></li>
+<li><a href="../../../blog.html">Blog</a></li><li><a href="../../../contact.html">Contact</a></li></ul></nav></div>
+<div id="site"><header class="main"><h1><a href="/">NoteToServices</a></h1><p>Useful SaaS Apps For Individuals and Businesses</p><nav class="main">
+<ul>
+<li><a href="../../../about.html">About</a></li>
+<li><a href="../../../blog.html">Blog</a></li><li><a href="../../../contact.html">Contact</a></li><li>
+<li class="download"></li></ul></nav><button id="slide-menu-button" href="#" class="topcoat-icon-button--large--quiet">
+<span class="topcoat-icon--large topcoat-icon-meun-stack"></span></button></header>
+
+<div class="wrapper">
+<section class="features">
+<h2>Pi Data</h2>
+<p><strong><em>May 10, 2020</em></strong> &mdash; As we sit in quarantine, there are a variety of different types of people who behave in specific ways when completely isolated or isolated with their closest friends or family. For some people, they prefer to just keep watching Netflix or Disney+ all day. Others are enjoying a good book, while this has been a time for people to clean up their houses, work on projects they didn't have time to work on before, and find ways to keep life interesting. While I love being lazy, I am usually always working and during this COVID-19 <a href="https://americacanwetalk.org/lets-go-with-ccp-virus/" target="_blank">CCP virus pandemic</a>, there are still 24 hours in a day but you are expected to be at home and no where else.
+</p>
+
+<p>After completing my first quarantine project, <a href="https://notetoservices.com/blog/2020/04/rewind-wordpress-plugin.html" target="_blank">Rewind WP</a>, which will allow you to set your wesite up for demo or staging purposes, make backups, and automatically restore your website to a previous point. Once this was complete, I started a new project called <strong>WP Daily Backup</strong> which was about 90% complete until I had a slight "momentary lapse of reason" in which I received a vision of a web application that had to do with Pi. I am not good at math nor have I ever been really interested in more than just knowing 3.14.</p>
+
+<p>While the vision was very clear on how to go about it and I knew it had something to do with Pi, I wasn't exactly sure how to go about it completely. This project first started out with generating Pi. The idea would then be that everyone who comes along can help generate some Pi with their computing power, which would take the load off my server, which was able to calculate thousands of calculations in minutes, but it is definitely a big workload to attempt this. The concept was definitely simple: come to the website, click the button, spend about 10-60 minutes on the site generating Pi in comibination with the server processor.</p>
+
+<p>However, I struggled to get it to calculate to the precise number if someone else who didn't start the 3.14 initiation sequence so if someone came and left the website, another person or multiple people could come along and also click the start button and it would generate in a place where a person last left off. Unfortunately, I could not get it to work the way I had wanted it to work, and after several attempts, I knew this vision still meant something, so I looked around, read up on Pi, read up on the amount of numbers and processes it takes to get through so many digits of Pi.</p>
+
+<p>I stumbled upon an article of an accomplishment of <a href="https://blog.timothymullican.com/calculating-pi-my-attempt-breaking-pi-record" target="_blank">50 trillion digits of Pi processed by Timothy Mullican</a>. Okay, great. Timothy had spent nearly a year letting his hard drives and computer do the processing of Pi and it took over a year of nonstop computing power. Good for you Tim, good for you. What good would this be if no one could have access to them? Sure, you could keep it a musuem but other than looking like a solid piece of a computer component, it would mean nothing to anyone who ever saw it except maybe computer nerds and people who are obsessed with Pi.</p>
+
+<p>That is when I came across a website called <a href="https://pi.delivery/" target="_blank">pi.delivery</a> that happened to be hosting all 50 trillion digits of Pi on their website and in API json format and only API json format, which is useful to programmers, but not so much for anyone else. I also noticed that <a href="https://pi.delivery/" target="_blank">pi.delivery</a> is the ONLY website hosting 50 trillion digits of Pi. I am sure they are located on Tim's hard drive somewhere. I also cannot imagine anything happening to Google, Google Cloud Platform, or Firebase. However, this means that Google is only second to hold all of these digits. While I'm not immortal and someday, maybe tomorrow, maybe a week, a year, or 50 years from now, I might pass on, but my intentions are certainly to hold on to these Pi digits for as long as I can.</p>
+
+<p>I have a 10 GbE server currently downloading and uploading about 1,000,000 Pi digits per minute. Who knows how long it will take, but I plan to host all 50 trillion digits in a text file. As for my original plan: the processing of 50 trillion digits I may revisit the script and figure out how to allow everyone to help with processing so that everyone can give just a few minutes of their processing power and we can get beyond 50 trillion digits. For now, the original project was shelved, but the project is called <a href="https://pidata.app" target="_blank">Pi Data</a> and allows you to search Pi by terms, position of the character digit across Pi, or our experimental feature will attempt to scan all 50 million files for the sequence.</p>
+
+<p>We hope you enjoy this project and ask for your support if you find it helpful, useful, or entertaining.</p>
+
+<div style="clear:both;"></div></section><footer class="site">
+<ul>
+<li id="twitter"><a href="http://twitter.com/OneTruConscious"></a></li>
+</ul></footer></div></div>
+<script type="text/javascript">// Add a script element as a child of the body
+function downloadJSAtOnload() {
+    var edgewebfontselement = document.createElement("script");
+    edgewebfontselement.src = "//use.edgefonts.net/source-sans-pro.js";
+    edgewebfontselement.type = "text/javascript";
+    document.body.appendChild(edgewebfontselement);
+}</script>
+</body></html>
