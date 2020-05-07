@@ -521,7 +521,8 @@ nav.main ul li a:hover {
 .features ul li a.bunnyapi,
 .features ul li a.pixle,
 .features ul li a.wordpress,
-.features ul li a.rewindwp
+.features ul li a.rewindwp,
+.features ul li a.pidata
 {
     background-color: #f9f9f9;
     outline: #eee solid 1px
@@ -595,7 +596,8 @@ nav.main ul li a:hover {
 .features ul li a.bunnyapi,
 .features ul li a.pixle,
 .features ul li a.wordpress,
-.features ul li a.rewindwp
+.features ul li a.rewindwp,
+.features ul li a.pidata
 {
     width: 120px;
     height: 120px;
@@ -654,11 +656,6 @@ nav.main ul li a:hover {
     background-image: url(../img/bunnyapi_logo.jpg)
 }
 
-.features ul li#rewindwp a.rewindwp {
-    background-image: url(../img/rewindwp-logo.png)
-}
-
-
 .features ul li#notetoemail a.notetoemail {
     background-image: url(../img/notetoemail.png)
 }
@@ -684,7 +681,6 @@ nav.main ul li a:hover {
     background-image: url(../img/pixle.png);
 }
 
-
 .features ul li#writetufte a.writetufte {
     background-image: url(../img/tufte.png)
 }
@@ -708,6 +704,14 @@ nav.main ul li a:hover {
 
 .features ul li#wordpress a.wordpress {
     background-image: url(../img/wordpress.jpg)
+}
+
+.features ul li#rewindwp a.rewindwp {
+    background-image: url(../img/rewindwp-logo.png)
+}
+
+.features ul li#rewindwp a.pidata {
+    background-image: url(../img/pi-data-logo.png)
 }
 
 
