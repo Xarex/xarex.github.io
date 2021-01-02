@@ -1,0 +1,43 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Bringing To Life DreamAPI With DreamObjects | Blog | NoteToServices</title><link rel="stylesheet" href="../../../css/custom.css"><script type="text/javascript">window.onload=function(){var a=document.getElementById("slide-menu-button");a.onclick=function(d){var c=document.getElementById("site");var b=c.classList;if(b.contains("open")){b.remove("open")}else{b.add("open")}}};</script>
+<script type="text/javascript">
+    window.heap=window.heap||[],heap.load=function(e,t){window.heap.appid=e,window.heap.config=t=t||{};var r=t.forceSSL||"https:"===document.location.protocol,a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=(r?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+e+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(e){return function(){heap.push([e].concat(Array.prototype.slice.call(arguments,0)))}},p=["addEventProperties","addUserProperties","clearEventProperties","identify","removeEventProperty","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
+      heap.load("2685425461");
+</script>
+</head>
+<body><div id="wrapper"><div id="side-nav"><nav class="site"><ul>
+<li><a href="../../../about.html">About</a></li>
+<li><a href="../../../blog.html">Blog</a></li><li><a href="../../../contact.html">Contact</a></li></ul></nav></div>
+<div id="site"><header class="main"><h1><a href="/">NoteToServices</a></h1><p>Useful SaaS Apps For Individuals and Businesses</p><nav class="main">
+<ul>
+<li><a href="../../../about.html">About</a></li>
+<li><a href="../../../blog.html">Blog</a></li><li><a href="../../../contact.html">Contact</a></li><li>
+<li class="download"></li></ul></nav><button id="slide-menu-button" href="#" class="topcoat-icon-button--large--quiet">
+<span class="topcoat-icon--large topcoat-icon-meun-stack"></span></button></header>
+
+<div class="wrapper">
+<section class="features">
+<h2>Bringing To Life DreamAPI with DreamObjects</h2>
+<p><strong><em>January 2, 2021</em></strong> &mdash; <a href="https://mbsy.co/jjHJM" target="_blank">DreamHost</a> is a shared hosting service that I was introduced to in 2013 by a friend. Before that, I was just learning about web hosting, and had registered with a company called Xisto, while I was living in Israel. Xisto is an Indian registrar and hosting company that I liked a lot. The reason I liked them was because, when I was still a young and dumb man, much like I am still today, I had not much money, and they offered a solution: post on our forum in exchange for points. With these points, they would pay for your web hosting and your domain. While it required about an hour or two a day to just post on this forum with legitimate messages, it was worth it because it was "free" and allowed me to learn a lot about web design and web development.</p>
+
+<p>Fast forward to when I moved back to the United States and was in a very different time zone from where India is, the support was slow, the responses weren't that great, and I just needed a fresh start. My friend then introduced me to a host he was using: <a href="https://mbsy.co/jjHJM" target="_blank">DreamHost</a>. I began on shared hosting and then went to <a href="https://mbsy.co/jjHJM?url=https://www.dreamhost.com/wordpress/managed-wp-hosting/" target="_blank">DreamPress</a>, and during my time with DreamHost, they launched a fascinating tool that I did not quite understand at the time, but soon learned how great of a tool it was: affordable storage with endless storage capabilities. With the launch of DreamObjects, DreamHost would also release a WordPress plugin called DreamSpeedCDN which allowed a WordPress website to use DreamObjects. Unfortunately, for whatever reason, they discontinued DreamSpeedCDN. This was devastating as I was uploading many images to my website, and learned just how useful it was to offload your images to a CDN, rather than keep them on the website.</p>
+
+<p>For the longest time, I had been using <a href="https://wordpress.org/plugins/ilab-media-tools/" target="_blank">Ilab Media Tools</a> to connect my WordPress websites with DreamObjects, but unfortunately, even though the plugin was receiving daily updates, it was not working for me. This plugin seems to also have been created for a variety of different block storage and CDN services. As I write this, it is working now, but it had not been working for nearly 2 months, causing me to finally take the initiative to build an actual DreamObjects service called <a href="https://dreamapi.link" target="_blank">DreamAPI</a> and a <a href="https://wordpress.org/plugins/dreamapi" target="_blank">WordPress plugin</a> to go with it. These two tools, the service, and the plugin, are focused solely on DreamObjects and enabling it to be used as a CDN service. 
+</p>
+
+<p>To this day, I am still with DreamHost though I have moved most of my projects off DreamHost and on to their own server. This does not mean I have turned my back on DreamHost completely, as I still use DreamCompute and DreamObjects for some of my websites. I first came to DreamHost with barely any knowledge at all, and almost 10 years later, I'm able to give back somewhat, and utilize one of DreamHost's most precious tools and make it available for all WordPress users, especially those familiar with DreamHost. With over 2 million websites being hosted on DreamHost, with well over 80% of them being hosted on WordPress, it is a wonder why DreamHost isn't taking advantage of an opportunity to bridge the gap and help people use DreamObjects with their WordPress websites. Fortunately for me, that is where opportunity comes in: while the service is not free, as I have to support these projects, it is very affordable and helps me to keep supporting the product so that I can work on it for as much as I need to work on it.</p>
+
+<p>If you're a DreamHost customer or user and have a WordPress website, then <a href="https://dreamapi.com" target="_blank">DreamAPI</a> and its <a href="https://wordpress.org/plugins/dreamapi" target="_blank">WordPress plugin</a> are what you need for true unlimited storage and speed. If you're not a DreamHost customer, you may want find DreamHost and DreamObjects might just be for you. Don't hesitate, check it out today!</p> 
+
+<div style="clear:both;"></div></section><footer class="site">
+<ul>
+<li id="twitter"><a href="http://twitter.com/OneTruConscious"></a></li>
+</ul></footer></div></div>
+<script type="text/javascript">// Add a script element as a child of the body
+function downloadJSAtOnload() {
+    var edgewebfontselement = document.createElement("script");
+    edgewebfontselement.src = "//use.edgefonts.net/source-sans-pro.js";
+    edgewebfontselement.type = "text/javascript";
+    document.body.appendChild(edgewebfontselement);
+}</script>
+</body></html>
