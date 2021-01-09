@@ -519,6 +519,7 @@ nav.main ul li a:hover {
 .features ul li a.justcounts,
 .features ul li a.invodue,
 .features ul li a.bunnyapi,
+.features ul li a.dreamapi,
 .features ul li a.pixle,
 .features ul li a.wordpress,
 .features ul li a.rewindwp,
@@ -594,6 +595,7 @@ nav.main ul li a:hover {
 .features ul li a.justcounts,
 .features ul li a.invodue,
 .features ul li a.bunnyapi,
+.features ul li a.dreamapi,
 .features ul li a.pixle,
 .features ul li a.wordpress,
 .features ul li a.rewindwp,
@@ -654,6 +656,10 @@ nav.main ul li a:hover {
 
 .features ul li#bunnyapi a.bunnyapi {
     background-image: url(../img/bunnyapi_logo.jpg)
+}
+
+.features ul li#dreamapi a.dreamapi {
+    background-image: url(../img/dreamapi.jpg)
 }
 
 .features ul li#notetoemail a.notetoemail {
