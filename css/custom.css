@@ -199,7 +199,7 @@ table {
     border-collapse: collapse;
     border-spacing: 0
 }
-
+.addpad { padding: 10px; }
 .button,
 .topcoat-button,
 .topcoat-button--cta,
