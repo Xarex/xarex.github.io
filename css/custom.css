@@ -453,7 +453,8 @@ header {
 header p {
     color: #999
 }
-
+.heroimg { width: 30%; }
+.hero { margin: auto; text-align: center; }
 #hero ul,
 .features ul,
 footer ul,
