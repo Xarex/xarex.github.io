@@ -358,7 +358,7 @@ h1 a,
 h3 {
     color: #464646
 }
-
+h3 { padding: 10px; }
 .topcoat-button--cta:hover,
 .topcoat-button--large--cta:hover {
     background-color: #4ca1e4
