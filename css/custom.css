@@ -892,7 +892,8 @@ nav.main ul li a:hover {
             float: none;
             width: 100%;
             clear: left;
-            padding: 20px
+            padding: 20px;
+            text-align: left; 
         }
         .features ul li p {
             padding: 0;
