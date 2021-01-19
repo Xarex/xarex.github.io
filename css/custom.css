@@ -608,7 +608,8 @@ nav.main ul li a:hover {
     background-size: cover;
     float: left;
     background-repeat: no-repeat;
-    display: block
+    display: block;
+    text-align: left
 }
 
 .features ul li p {
