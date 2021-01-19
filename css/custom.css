@@ -464,6 +464,8 @@ nav ul {
     padding: 0
 }
 
+.features ul li h3 { text-align: left; }
+
 .features ul li,
 nav.main ul li {
     float: left
