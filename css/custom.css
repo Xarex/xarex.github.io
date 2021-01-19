@@ -453,6 +453,7 @@ header p {
     color: #999
 }
 .heroimg { width: 30%; }
+.confessimg { width: 100%; padding: 3em; }
 .hero { margin: auto; text-align: center; }
 #hero ul,
 .features ul,
