@@ -602,7 +602,8 @@ nav.main ul li a:hover {
 .features ul li a.pixle,
 .features ul li a.wordpress,
 .features ul li a.rewindwp,
-.features ul li a.pidata
+.features ul li a.pidata,
+.features ul li a.trackmybot,
 {
     width: 120px;
     height: 120px;
@@ -724,6 +725,10 @@ nav.main ul li a:hover {
     background-image: url(../img/pi-data-logo.png)
 }
 
+
+.features ul li#trackmybot a.trackmybot {
+    background-image: url(../img/trackmybot.png)
+}
 
 
     #default-theme {
