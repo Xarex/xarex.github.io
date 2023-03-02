@@ -604,6 +604,7 @@ nav.main ul li a:hover {
 .features ul li a.rewindwp,
 .features ul li a.pidata,
 .features ul li a.trackmybot,
+.features ul li a.artsy
 {
     width: 120px;
     height: 120px;
@@ -731,6 +732,9 @@ nav.main ul li a:hover {
 }
 
 
+.features ul li#artsy a.artsy {
+    background-image: url(../img/artsy.png)
+}
     #default-theme {
         clear: left;
         width: 100%;
